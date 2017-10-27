@@ -5,4 +5,4 @@ Auto encoder models
 Seq2Seq auto encoder model (used GRU cell)
 
 3. VAE :
-Variational Auto encoder
+Variational Auto encoder (used GRU cell, bidirection)
