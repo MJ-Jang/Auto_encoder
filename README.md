@@ -2,7 +2,7 @@
 Auto encoder models
 
 1. Seq2Seq_Autoencoder : 
-Seq2Seq auto encoder model (used GRU cell)
+Seq2Seq auto encoder model (used LSTM cell)
 
 2. VAE :
 Variational Auto encoder (used GRU cell, bidirection)
