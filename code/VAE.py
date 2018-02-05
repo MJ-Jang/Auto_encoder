@@ -3,9 +3,8 @@
 #  - Author: Myeongjun Jang
 #  - email: xkxpa@korea.ac.kr
 #  - git: https://github.com/MJ-Jang
+#  - version: Tensorflow ver 1.2.1
 ####################################################
-
-
 
 ################################################## 1. Import modules ###################################################
 import gensim
