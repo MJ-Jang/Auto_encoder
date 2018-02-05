@@ -1,3 +1,12 @@
+####################################################
+# RNN-Variational Autoencoder model
+#  - Author: Myeongjun Jang
+#  - email: xkxpa@korea.ac.kr
+#  - git: https://github.com/MJ-Jang
+####################################################
+
+
+
 ################################################## 1. Import modules ###################################################
 import gensim
 import numpy as np
